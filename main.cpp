@@ -5,7 +5,7 @@
 using namespace std;
 
 
-int main(){
+int main(){   //Test number 02 with binary data
 
 	ofstream archivo("prueba06.dat",ios::out | ios::binary);
 	unsigned t0, t1;
